@@ -11,9 +11,9 @@ export default function Presentation() {
                 I am a self-taught front-end developer who is passionate about the craft.
                 My primary tools are HTML5, CSS3, and JavaScript, with a particular focus on React.js.
                 <br />
-                I am continually learning and training to enhance my skills, and I am comfortable
-                working both independently and in a group setting. I am highly motivated, professional,
-                and willing to relocate if necessary.
+                I am constantly improving my skills and am comfortable working both independently and in
+                a group setting. I am highly motivated, professional, and willing to relocate if necessary.
+                Do not hesitate to contact me if you are interested in my profile.
                 <br />
                 Do not hesitate to contact me if you are interested in my profile.
             </p>
@@ -36,7 +36,7 @@ export default function Presentation() {
                 </li>
             </ul>
             <h2>Tech stack</h2>
-            <p>Has I said earlier I mainly use:</p>
+            <p>As I said earlier, I mainly use:</p>
             <ul id="tech-stack">
                 <li>HTML</li>
                 <li>CSS</li>
@@ -44,36 +44,35 @@ export default function Presentation() {
                 <li>React.js</li>
                 <li>TypeScript </li>
             </ul>
-            However I won't limit myself to those languages and learn more of them.
-            <h2 >Certificats</h2>
-            <p>As I self-taught I had to start somewhere, so I decided to start with freeCodeCamp,
-                as a first step in the front-end world
-            </p>
-            <p>Courses was really interesting and interactive so I took three courses there, here's the links
-                for each certifications I got:
+            However, I won't limit myself to these languages and plan to learn more in the future.
+            <h2 >Certificates</h2>
+            <p>As a self-taught programmer, I had to start somewhere.
+                I decided to begin my journey in the front-end world with freeCodeCamp, taking advantage of
+                their interesting and interactive courses.
+                I completed three courses, earning certifications in each:
             </p>
             <ul id="certificats">
                 <li>
                     <a href="https://www.freecodecamp.org/certification/Squaredius/responsive-web-design"
                         target="_blank" rel="noreferrer">
-                        The first one about basis
+                        The first certification covered the basics.
                     </a>
                 </li>
                 <li>
                     <a href="https://www.freecodecamp.org/certification/Squaredius/javascript-algorithms-and-data-structures"
                         target="_blank" rel="noreferrer">
-                        The second one about JavaScripts
+                        The second certification focused on JavaScript.
                     </a>
                 </li>
                 <li>
                     <a href="https://www.freecodecamp.org/certification/Squaredius/front-end-development-libraries"
                         target="_blank" rel="noreferrer">
-                        And the last one about some front-end librairies
+                        The third certification covered several front-end libraries.
                     </a>
                 </li>
             </ul>
-            <p>Since and while doing them I started and kept doing personal projects like this one or others that you'll see,
-                on the right side of this page
+            <p>While working on these courses, I also started several personal projects,
+                including the one you see on the right side of this page.
             </p>
         </div>
     );
