@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Menu",
+    "link": "https://haborym99.github.io/menu/",
+    "description": "Here's a fake restaurant menu made with TypeScript"
+  },
+  {
+    "name": "To-do list",
+    "link": "https://haborym99.github.io/todo-list/",
+    "description": "This one was made on React only. It's a useful to-do list where you can add, erase and even sort your tasks"
+  }
+]
