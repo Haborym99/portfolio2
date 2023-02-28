@@ -72,7 +72,7 @@ export default function Presentation() {
                 </li>
             </ul>
             <p>While working on these courses, I also started several personal projects,
-                including the one you see on the right side of this page.
+                including the one you'll see on the rest of this page.
             </p>
         </div>
     );
