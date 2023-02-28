@@ -2,11 +2,25 @@
   {
     "name": "Menu",
     "link": "https://haborym99.github.io/menu/",
-    "description": "Here's a fake restaurant menu made with TypeScript"
+    "description": "Here's a simulated restaurant menu made with React and TypeScript. You can add or remove your dish choices and also see the total of your order.",
+    "key": 0
   },
   {
     "name": "To-do list",
     "link": "https://haborym99.github.io/todo-list/",
-    "description": "This one was made on React only. It's a useful to-do list where you can add, erase and even sort your tasks"
+    "description": "This to-do list was built with React and offers several features to help you stay organized: add, erase, and sort tasks with ease.",
+    "key": 1
+  },
+  {
+    "name": "Markdown previewer",
+    "link": "https://haborym99.github.io/markdown_previewer/",
+    "description": "This markdown previewer is a useful tool for writing documentation. With instant previewing, you can see your document come to life as you type.",
+    "key": 2
+  },
+  {
+    "name": "Pomodoro timer",
+    "link": "https://haborym99.github.io/pomodoro/",
+    "description": "Why not trying the pomodoro's method to handle more efficiently your focus session, try to stay focus during the entire session length and deserve your break!",
+    "key": 3
   }
 ]

@@ -20,12 +20,12 @@ export default function Presentation() {
             <ul id="social-links">
                 <li>
                     <a href="https://www.linkedin.com/in/tristan-collon/"
-                        target="_blank">
+                        target="_blank" rel="noreferrer">
                         <i className="ri-linkedin-fill"></i>
                     </a>
                 </li>
                 <li>
-                    <a href="https://github.com/Haborym99" target="_blank">
+                    <a href="https://github.com/Haborym99" target="_blank" rel="noreferrer">
                         <i className="ri-github-line"></i>
                     </a>
                 </li>
@@ -55,19 +55,19 @@ export default function Presentation() {
             <ul id="certificats">
                 <li>
                     <a href="https://www.freecodecamp.org/certification/Squaredius/responsive-web-design"
-                        target="_blank">
+                        target="_blank" rel="noreferrer">
                         The first one about basis
                     </a>
                 </li>
                 <li>
                     <a href="https://www.freecodecamp.org/certification/Squaredius/javascript-algorithms-and-data-structures"
-                        target="_blank">
-                        The second one about JavasCripts
+                        target="_blank" rel="noreferrer">
+                        The second one about JavaScripts
                     </a>
                 </li>
                 <li>
                     <a href="https://www.freecodecamp.org/certification/Squaredius/front-end-development-libraries"
-                        target="_blank">
+                        target="_blank" rel="noreferrer">
                         And the last one about some front-end librairies
                     </a>
                 </li>
