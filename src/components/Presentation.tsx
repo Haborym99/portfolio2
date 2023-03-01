@@ -9,7 +9,7 @@ export default function Presentation() {
                 <br />
                 <br />
                 I am a self-taught front-end developer who is passionate about the craft.
-                My primary tools are HTML5, CSS3, and JavaScript, with a particular focus on React.js.
+                My primary tools are HTML5, CSS3, and JavaScript, with a particular focus on React.js and recently TypeScript.
                 <br />
                 I am constantly improving my skills and am comfortable working both independently and in
                 a group setting. I am highly motivated, professional, and willing to relocate if necessary.
@@ -71,8 +71,10 @@ export default function Presentation() {
                     </a>
                 </li>
             </ul>
-            <p>While working on these courses, I also started several personal projects,
-                including the one you'll see on the rest of this page.
+            <p> During those courses and after them I created various
+                personal projects, such as the one showcased on this page. These projects
+                allowed me to gain hands-on experience and further develop my skills in frontend
+                development.
             </p>
         </div>
     );
