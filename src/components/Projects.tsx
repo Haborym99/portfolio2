@@ -38,7 +38,7 @@ export default function () {
             <div id="iframe-container">
                 <iframe src={actualProject} title="interactive-project"></iframe>
             </div>
-            <div id="additionnal-info">
+            <div id="additionnal-info" className="slide-in-bottom">
                 {projectsList}
                 <div id="project-arrow">
                     <button onClick={handleProject}
